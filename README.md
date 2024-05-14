@@ -1,5 +1,4 @@
-![Header Image](Downloads/abstractheader.webp)
-
+![abstractheader](https://github.com/ebbekarlstad/ebbekarlstad/assets/89467178/194d2b1f-b8b3-470c-b166-184eae381211)
 
 ### Hi there 👋
 
