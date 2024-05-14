@@ -1,16 +1,17 @@
+![Header Image](Downloads/abstractheader.webp)
+
+
 ### Hi there 👋
 
-<!--
-**ebbekarlstad/ebbekarlstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ebbe, I'm a Software Engineering student passionate about coding and technology. I've gathered knowledge about backend and frontend development, including stuff like design in JavaFX and Database Management using MySQL.
 
-Here are some ideas to get you started:
+Courses taken:
+⚡ Introduction to Programming (Python)
+⚡ Basic Mathematics for Computer Scientists
+⚡ Computer Security
+⚡ Technical Information and Communication
+⚡ Object Oriented Programming (Java)
+⚡ Database Technology (MySQL)
+⚡ Discrete Mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always eager to learn and work on new projects, collaborating with others to create innovative solutions. Let's connect and build something awesome together! 💻🚀
