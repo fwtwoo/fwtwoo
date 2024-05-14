@@ -1,4 +1,4 @@
-![abstractheader](https://github.com/ebbekarlstad/ebbekarlstad/assets/89467178/194d2b1f-b8b3-470c-b166-184eae381211)
+![abstractheader](https://github.com/ebbekarlstad/ebbekarlstad/assets/89467178/75990a65-e018-4259-99ca-7bc93219b194)
 
 ### Hi there 👋
 
