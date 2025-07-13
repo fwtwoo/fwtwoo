@@ -1,9 +1,17 @@
-![abstractheader](https://github.com/ebbekarlstad/ebbekarlstad/assets/89467178/75990a65-e018-4259-99ca-7bc93219b194)
+## 👋 Hi there, and
+![abstractheader](https://github.com/user-attachments/assets/bfa9ce1c-8f42-4649-b7e9-d8781a4b36e2)
 
-### Hi there 👋
+Hey, I’m Ebbe — a software engineering student who’s really into coding, building things, and working on all types of systems!
 
-My name is Ebbe, and I’m a Software Engineering student with a passion for coding and technology. Through my personal projects and studies, I’ve gained experience in both backend and frontend development, including designing user interfaces with JavaFX and managing databases using MySQL.
+🖥️ I’ve worked on both frontend and backend projects, from designing UI in JavaFX to managing MySQL databases.
 
-⚡ I have hands-on experience with Python for smaller projects, and I have developed larger, object-oriented applications in Java and JavaFX. These have been done using industry-standard systems like Git and SCRUM. I also have a solid foundation in different fields of Mathematics, Computer Security, and Database Management.
+⚙️ I’ve built personal projects in NextJS/React, and I’m comfortable working in Linux environments — it’s where I spend most of my time (Arch, btw...).
 
-I’m always eager to learn, take on new challenges, and collaborate with others to create exciting projects. Let’s connect and build something awesome together! 💻🚀
+🐍 I also enjoy writing Rust and Go programs for smaller tools, and I’ve built larger object-oriented applications in Java, often using Git and SCRUM workflows.
+
+📚 Beyond the code, I’ve picked up solid foundations in networks, computer security, and databases through my studies.
+
+---
+🚀 I'm always looking to learn more, push my skills, and team up with others to create cool, useful stuff.
+
+🤝 If you want to buid something, let’s connect!
