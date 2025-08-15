@@ -14,4 +14,4 @@ Hey, I’m Ebbe — a software engineering student who’s really into coding, b
 ---
 🚀 I'm always looking to learn more, push my skills, and team up with others to create cool, useful stuff.
 
-🤝 If you want to buid something, let’s connect!
+🤝 If you want to build something, let’s connect!
