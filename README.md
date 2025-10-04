@@ -1,17 +1,16 @@
 ## 👋 Hi there, and
 ![abstractheader](https://github.com/user-attachments/assets/bfa9ce1c-8f42-4649-b7e9-d8781a4b36e2)
 
-Hey, I’m Ebbe — a software engineering student who’s really into coding, building things, and working on all types of systems!
+Hi! I’m Ebbe - a software engineering student, currently studying to get my Bachelor's Degree in Computer Science at Linnaeus University.
 
-🖥️ I’ve worked on both frontend and backend projects, from designing UI in JavaFX to managing MySQL databases.
+🖥️ Throughout my education, I’ve worked on scaled full-stack projects (all written mostly in Java, often using Git and Agile/SCRUM workflows), where I've learnt things like UI design in JavaFX and database management in MySQL. I've also made lots of smaller Java and Python projects for courses like Operating Systems, Computer Networks, Algorithms and Advanced Data Structures, and more.
 
-⚙️ I’ve built personal projects in NextJS/React, and I’m comfortable working in Linux environments — it’s where I spend most of my time (Arch, btw...).
+⚙️ I’ve built personal projects in languages like Python, Go, Rust, and some web development in NextJS/React. You can take a look at some of these on my profile!
 
-🐍 I also enjoy writing Rust and Go programs for smaller tools, and I’ve built larger object-oriented applications in Java, often using Git and SCRUM workflows.
+🐍 Two years into my education I switched from Windows to Linux (Arch), so I'm familiar with both systems when it comes to development. I'm really into the Linux ricing community, and you can see my dotfiles for my Arch Linux + Hyprland setup on my profile as well.
 
-📚 Beyond the code, I’ve picked up solid foundations in networks, computer security, and databases through my studies.
+📚 Beyond the code, I’ve picked up solid foundations in computer networks (tech like GNS3), computer security, and databases through my studies.
 
 ---
-🚀 I'm always looking to learn more, push my skills, and team up with others to create cool, useful stuff.
 
-🤝 If you want to build something, let’s connect!
+🤝 Enjoy the rest of your day!
