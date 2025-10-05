@@ -1,7 +1,7 @@
 ## 👋 Hi there, and
 ![abstractheader](https://github.com/user-attachments/assets/bfa9ce1c-8f42-4649-b7e9-d8781a4b36e2)
 
-Hi! I’m Ebbe - a software engineering student, currently studying to get my Bachelor's Degree in Computer Science at Linnaeus University.
+I’m a software engineering student, currently studying to get my Bachelor's Degree in Computer Science at Linnaeus University.
 
 🖥️ Throughout my education, I’ve worked on scaled full-stack projects (all written mostly in Java, often using Git and Agile/SCRUM workflows), where I've learnt things like UI design in JavaFX and database management in MySQL. I've also made lots of smaller Java and Python projects for courses like Operating Systems, Computer Networks, Algorithms and Advanced Data Structures, and more.
 
