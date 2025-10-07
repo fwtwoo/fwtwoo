@@ -7,7 +7,7 @@ I’m a software engineering student, currently studying to get my Bachelor's De
 
 ⚙️ I’ve built personal projects in languages like Python, Go, Rust, and some web development in NextJS/React. You can take a look at some of these on my profile!
 
-🐍 Two years into my education I switched from Windows to Linux (Arch), so I'm familiar with both systems when it comes to development. I'm really into the Linux ricing community, and you can see my dotfiles for my Arch Linux + Hyprland setup on my profile as well.
+🐍 Two years into my education I switched from Windows to Linux (Arch), so I'm familiar with both systems when it comes to development. I'm really into the Linux, and the ricing community, and you can see my dotfiles for my Arch Linux + Hyprland setup on my profile as well.
 
 📚 Beyond the code, I’ve picked up solid foundations in computer networks (tech like GNS3), computer security, and databases through my studies.
 
